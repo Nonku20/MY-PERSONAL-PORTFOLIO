@@ -24,9 +24,10 @@ body{
 }
 nav{
   display: flex;
-  align-items: center;
+  align-items:center;
   justify-content: space-between;
   flex-wrap: wrap;
+  text-align: right;
 }
 .logo{
   width: 149px;
